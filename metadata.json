@@ -1,0 +1,6 @@
+{
+  "name": "MedPulse ED — Hospital Emergency Crowd Forecasting AI",
+  "description": "AI-powered Hospital Emergency Department Crowd Forecasting, Interactive Bed Intelligence, Patient Queue Management, and Live Surge Simulation Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
